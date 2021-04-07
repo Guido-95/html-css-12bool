@@ -6,8 +6,10 @@
     padding: 0;
 }
 body{
-    padding-top: 20px;
+ margin-top: 37px;
+    
 }
+
 /* container clearfix */
 
 .container {
