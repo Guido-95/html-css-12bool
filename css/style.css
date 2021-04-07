@@ -1,0 +1,20 @@
+
+.padding-10{
+    padding: 10px;
+}
+
+.div-innestato{
+    position: relative;
+    height: 180px;
+    line-height: 180px;
+    border: 1px solid white;
+    background-color: lightcoral;
+}
+
+.centrato{
+    line-height: normal;
+    position: relative;
+    top: calc(50% - 15px);
+    left: 50%;
+    transform: translate(-50%);
+}
